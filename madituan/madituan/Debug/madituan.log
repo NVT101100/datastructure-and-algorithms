@@ -1,0 +1,6 @@
+﻿  Source.cpp
+E:\NVT\visual\madituan\madituan\Source.cpp(95,23): warning C4018: '<': signed/unsigned mismatch
+E:\NVT\visual\madituan\madituan\Source.cpp(109,27): warning C4018: '<': signed/unsigned mismatch
+E:\NVT\visual\madituan\madituan\Source.cpp(137,30): warning C4018: '<': signed/unsigned mismatch
+E:\NVT\visual\madituan\madituan\Source.cpp(137,70): warning C4018: '<': signed/unsigned mismatch
+  madituan.vcxproj -> E:\NVT\visual\madituan\Debug\madituan.exe
